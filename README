@@ -1,0 +1,6 @@
+This project is a collection of useful snippets and small utilities. I don't know that it's worth making installable via setup.py and probably doesn't have enough value to make into a nicer lib. 
+
+It is as much part of my ongoing learning about Git, the python-cloudfiles API, and python package design as a real, useful open source library.
+
+Feel free to use it as quick examples for the python-cloudfiles API or as a base for more useful scripts.
+
